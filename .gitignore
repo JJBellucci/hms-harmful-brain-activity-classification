@@ -1,0 +1,7 @@
+*.parquet
+*.pdf
+example_figures
+test_eegs
+test_spectrograms
+train_eegs
+train_spectrograms
