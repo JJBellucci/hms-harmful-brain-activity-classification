@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 pandas = "*"
 kaggle = "*"
+snappy = "*"
+pyarrow = "*"
 
 [dev-packages]
 ipykernel = "*"
