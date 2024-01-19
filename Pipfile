@@ -8,6 +8,10 @@ pandas = "*"
 kaggle = "*"
 snappy = "*"
 pyarrow = "*"
+matplotlib = "*"
+scikit-learn = "*"
+xgboost = "*"
+seaborn = "*"
 
 [dev-packages]
 ipykernel = "*"
